@@ -7,7 +7,15 @@ body {
   background: linear-gradient(
     to right,
     rgba(229, 166, 100)5%,
-    rgba(0, 50, 100)100%
+    rgb(0, 51, 101)100%
   );
   text-align: center;
+}
+
+.app-title{
+  margin-top: 75px;
+  margin-bottom: 50px;
+  font-size: 76px;
+  color:midnightblue;
+  font-family: 'Bigelow Rules';
 }

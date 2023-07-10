@@ -4,7 +4,7 @@ import './card.style.css';
 
 class Card extends Component {
     render() {
-        const {id, name, email} = this.props.monster;
+        const { id, name, email } = this.props.monster;
         return (
             <div className='card-container' key={id}>
                 <img
